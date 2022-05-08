@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+body{
+    margin:0;
+    font-family :Lorem Ipsum;
+    font-size:25px;
+    color : rgb(19, 17, 17);
+    line-height:1.6;
+}
+
+#showcase{
+    background-image:url('../../img/olya.jpg');
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    text-align: center;
+    padding:0 20px;
+
+}
+
+
+
